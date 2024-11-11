@@ -78,9 +78,10 @@ export default function WelcomePage() {
         <aside className="w-64 bg-gray-900 p-4 rounded-lg shadow-lg border border-green-500 float-right">
           <h3 className="text-lg font-semibold mb-2 text-green-500">Helpful Tools</h3>
           <ul className="space-y-2">
-            <li><a href="https://www.base64decode.org/" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:underline">Base64 Decoder</a></li>
-            <li><a href="https://cryptii.com/" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:underline">Cipher Tools</a></li>
-            <li><a href="https://www.reverse-string.com/" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:underline">Reverse String Tool</a></li>
+            <li><a href="https://quipqiup.com/" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:underline">Decoding Tool</a></li>
+            <li><a href="https://pics.io/photo-metadata-viewer" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:underline">Image tool</a></li>
+            <li><a href="https://onlinestringtools.com/reverse-string" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:underline">Reverse String Tool</a></li>
+            <li><a href="https://cryptii.com/pipes/vigenere-cipher" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:underline">Your favourite tool</a></li>
           </ul>
         </aside>
       </section>
