@@ -81,7 +81,7 @@ export default function WelcomePage() {
             <li><a href="https://quipqiup.com/" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:underline">Decoding Tool</a></li>
             <li><a href="https://pics.io/photo-metadata-viewer" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:underline">Image tool</a></li>
             <li><a href="https://onlinestringtools.com/reverse-string" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:underline">Reverse String Tool</a></li>
-            <li><a href="https://cryptii.com/pipes/vigenere-cipher" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:underline">Your favourite tool</a></li>
+            <li><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:underline">Your favourite tool</a></li>
           </ul>
         </aside>
       </section>
